@@ -82,7 +82,7 @@ ec2-nameforge-python/
 │   └── ec2_name_generator.py
 │
 ├── screenshots/
-│   ├── Py01 HeroImage.png
+│   ├── Py01HeroImage.png
 │   ├── approved-department-output.png
 │   ├── generated-ec2-names-output.png
 │   └── unapproved-department-output.png
